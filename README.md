@@ -41,8 +41,8 @@ Status Active
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub repository](https://github.com/Juan13052001/3-column-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://juan13052001.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
@@ -67,6 +67,7 @@ I learned how to use CSS Grid and how to make it fit the screen where it is bein
 ### Continued development
 
 I want to continue developing and using CSS Grid to improve my CSS Grid skills.
+
 ### Useful resources
 
 ## Author
