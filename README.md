@@ -42,7 +42,7 @@ Status Active
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/Juan13052001/3-column-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://juan13052001.github.io/3-column-preview-card-component-main/)
+- Live Site URL: [My site](https://juan13052001.github.io/3-column-preview-card-component-main/)
 
 ## My process
 
